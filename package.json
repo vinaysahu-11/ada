@@ -1,0 +1,20 @@
+{
+  "name": "ada-website",
+  "version": "1.0.0",
+  "description": "Premium business website for ADA & Company",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "business",
+    "website",
+    "tailwind",
+    "vercel"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
